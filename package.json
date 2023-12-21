@@ -1,0 +1,27 @@
+{
+  "name": "graphql-logging",
+  "version": "0.1.7",
+  "description": "`graphql-logging` is a logging middleware for GraphQL servers, providing detailed logs for incoming GraphQL requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/junaidtariq155/graphql-logging.git"
+  },
+  "keywords": [
+    "graphql",
+    "graphql-logging"
+  ],
+  "author": "M Junaid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junaidtariq155/graphql-logging/issues"
+  },
+  "homepage": "https://github.com/junaidtariq155/graphql-logging#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
