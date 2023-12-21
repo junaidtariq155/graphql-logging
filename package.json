@@ -1,6 +1,6 @@
 {
   "name": "graphql-logging",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "description": "`graphql-logging` is a logging middleware for GraphQL servers, providing detailed logs for incoming GraphQL requests.",
   "main": "index.js",
   "scripts": {

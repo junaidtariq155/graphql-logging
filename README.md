@@ -29,7 +29,7 @@ npm install graphql-logging
 ### 2. Add in their code:
 
 ```bash
-const GraphQLLogger = require('./index');
+const GraphQLLogger = require('graphql-logging');
 
 const logger = new GraphQLLogger();
 
